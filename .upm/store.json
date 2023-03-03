@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"6ade7513b2bbfab936ceb09df0c55fe4","lockfileHash":"a626bd8750af433bbb1f098510a951d8","guessedImports":["@tomphttp/bare-server-node","express","ultraviolet-static","@titaniumnetwork-dev/ultraviolet"],"guessedImportsHash":"425f57a1d711a98b663b82e64e279ea8"}}}

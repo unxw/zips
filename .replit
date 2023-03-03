@@ -1,0 +1,13 @@
+language = "nix"
+run = "cd /home/runner/1v1uv/Ultraviolet-Node && npm run start"
+
+[packager]
+language = "nodejs-npm"
+
+[nix]
+channel = "stable-21_11"
+
+[debugger]
+
+[unitTest]
+language = "nodejs"
